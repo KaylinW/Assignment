@@ -1,2 +1,3 @@
 # GitGood
 # GitGood
+$ GitGoods
