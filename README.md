@@ -1,5 +1,1 @@
-# GitGood
-# GitGood
-$ GitGoods
-# GitGoods
-# GitGoods
+# Assignment
